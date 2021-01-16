@@ -1,4 +1,4 @@
-# Pi-ssmtp
+# pi-ssmtp
 
 https://hub.docker.com/repository/docker/shukriadams/pi-ssmtp
 
